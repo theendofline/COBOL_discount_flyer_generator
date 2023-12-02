@@ -1,4 +1,4 @@
-# COBOL_discount_flyer_generator
+# COBOL_with_HTML_discount_flyer_generator
 
 ## Overview
 This COBOL program, `JSONCBL`, processes grocery store inventory data from a JSON file to generate a flyer with discounted prices for items nearing their expiry date. It's designed to help stores quickly advertise sales on perishable goods.
